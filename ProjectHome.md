@@ -1,0 +1,1 @@
+A project about rabbits, carrots and foxes. They eat each other and we check what parameters give the longer lasting ecosystem.
